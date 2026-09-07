@@ -1,0 +1,8 @@
+node_modules/
+dist/
+*.log
+.DS_Store
+.env
+.github-auth-*.json
+github-auth-check*.json
+loyabooth-http.html

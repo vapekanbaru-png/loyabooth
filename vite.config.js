@@ -4,4 +4,5 @@ export default defineConfig({
   base: '/loyabooth/',
   plugins: [react()],
   server: { port: 4173 },
+  test: { environment: 'jsdom' },
 });
